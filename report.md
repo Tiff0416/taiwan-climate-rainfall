@@ -55,7 +55,7 @@ Although rainfall volume has not changed drastically, **rainy days in Xindian an
 ![](image/max_daily_rainfall_distribution.png)
 
 A boxplot showing the spread of extreme rain events.  
-While most stations have stable max daily rainfall, **we occasionally see spikes above 400–500 mm**, especially in Xindian and Hsinchu, indicating occasional extreme events.
+While most stations have stable max daily rainfall, **I occasionally see spikes above 400–500 mm**, especially in Xindian and Hsinchu, indicating occasional extreme events.
 
 ---
 
