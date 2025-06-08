@@ -29,11 +29,11 @@ This project fulfills the final portfolio requirement for the climate data analy
 
 ##  Folder Structure
 Project03/
-├── C1A9N0/ # Raw station data: Xindian
-├── C1AC50/ # Raw station data: Taipei
-├── C1C510/ # Raw station data: Taoyuan
-├── C1D400/ # Raw station data: Hsinchu
-├── image/ # Final graphs (PNG format)
+├── C1A9N0/                       # Raw station data: Xindian
+├── C1AC50/                       # Raw station data: Taipei
+├── C1C510/                       # Raw station data: Taoyuan
+├── C1D400/                       # Raw station data: Hsinchu
+├── image/                        # Final graphs (PNG format)
 ├── north_taiwan_rainfall_cleaned.csv
 ├── clean_rainfall_data.py
 ├── plot.py
