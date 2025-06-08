@@ -2,7 +2,7 @@
 
 ##  Project Description
 
-This project analyzes **ten years of rainfall data (2013–2023)** from **four weather stations in northern Taiwan**: Xindian, Taipei, Taoyuan, and Hsinchu. The objective is to examine **whether rainfall in northern Taiwan has increased over the past decade**, by evaluating:
+This project analyzes **eleven years of rainfall data (2013–2023)** from **four weather stations in northern Taiwan**: Xindian, Taipei, Taoyuan, and Hsinchu. The objective is to examine **whether rainfall in northern Taiwan has increased over the past decade**, by evaluating:
 
 - Annual total rainfall
 - Number of rainy days per year
