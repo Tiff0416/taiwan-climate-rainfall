@@ -62,19 +62,19 @@ python plot.py
 ```
 
 ## Visualizations
-All graphs can be found in the image/ folder:
+All graphs can be found in the `image/` folder:
 
-annual_rainy_days_trend.png
+- annual_rainy_days_trend.png
 
-annual_total_rainfall_trend.png
+- annual_total_rainfall_trend.png
 
-max_daily_rainfall_distribution.png
+- max_daily_rainfall_distribution.png
 
-total_rainfall_by_location_bar.png
+- total_rainfall_by_location_bar.png
 
 ## Report
 
-See report.md for detailed analysis, findings, and interpretation of graphs.
+See `report.md` for detailed analysis, findings, and interpretation of graphs.
 
 ## Author
 
