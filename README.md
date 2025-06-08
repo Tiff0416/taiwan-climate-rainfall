@@ -28,6 +28,7 @@ This project fulfills the final portfolio requirement for the climate data analy
 ---
 
 ##  Folder Structure
+```bash
 Project03/
 ├── C1A9N0/                       # Raw station data: Xindian
 ├── C1AC50/                       # Raw station data: Taipei
@@ -39,6 +40,7 @@ Project03/
 ├── plot.py
 ├── report.md
 └── README.md
+```
 
 ---
 
