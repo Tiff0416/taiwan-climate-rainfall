@@ -36,7 +36,7 @@ Data was cleaned and merged into a single file for analysis.
 
 ![](image/annual_total_rainfall_trend.png)
 
-We observe that **Xindian consistently receives the most rainfall**, followed by Hsinchu.  
+I observe that **Xindian consistently receives the most rainfall**, followed by Hsinchu.  
 While fluctuations exist year to year, **there is no strong evidence of an upward or downward trend** across all stations.
 
 ---
@@ -63,7 +63,7 @@ While most stations have stable max daily rainfall, **we occasionally see spikes
 
 ![](image/total_rainfall_by_location_bar.png)
 
-Xindian received nearly **40,000 mm** of rainfall over the 10-year period, the highest among the four stations.  
+Xindian received nearly **40,000 mm** of rainfall over the 11-year period, the highest among the four stations.  
 This matches expectations due to its geographical location near mountainous terrain.
 
 ---
@@ -71,7 +71,7 @@ This matches expectations due to its geographical location near mountainous terr
 ## Conclusion
 
 - **Is Northern Taiwan getting wetter?**  
-  There is no clear increasing trend across all stations, but Xindian consistently shows high rainfall and frequent rain days.
+    I found no clear increasing trend across all stations, but Xindian consistently shows high rainfall and frequent rain days.
 
 - **Are extreme rainfall events increasing?**  
   Some years saw unusually high daily rainfall, but no clear increasing pattern.
