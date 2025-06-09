@@ -1,19 +1,35 @@
+#%%
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load data
-df = pd.read_csv("north_taiwan_rainfall_cleaned.csv")
+from clean_rainfall_data import *
 
-# Replace station codes with full names
-station_name_map = {
+# Load data
+#df = pd.read_csv("north_taiwan_rainfall_cleaned.csv")
+
+
+# Mapping of station codes to readable station names
+station_map = {
     "C1A9N0": "Xindian",
     "C1AC50": "Taipei",
     "C1C510": "Taoyuan",
     "C1D400": "Hsinchu"
 }
-df['Station'] = df['StationCode'].map(station_name_map)
+
+df = load_all_stations(station_map)
+
+#%%
+
+# Replace station codes with full names - You're already doing this.
+# station_name_map = {
+#     "C1A9N0": "Xindian",
+#     "C1AC50": "Taipei",
+#     "C1C510": "Taoyuan",
+#     "C1D400": "Hsinchu"
+# }
+# df['Station'] = df['StationCode'].map(station_name_map) 
 
 # Create image directory if not exists
 os.makedirs("image", exist_ok=True)
